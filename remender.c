@@ -57,8 +57,5 @@ int readline(char a[],int n){
 	*p = '\0';
 	return i;
 }
-
-
-/* i have change nothing */
-/*nothing */
+//these lines were deleted
 
