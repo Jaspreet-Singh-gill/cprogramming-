@@ -58,4 +58,5 @@ int readline(char a[],int n){
 	return i;
 }
 //these lines were deleted
+//new lines were added
 
