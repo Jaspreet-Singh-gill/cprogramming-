@@ -19,7 +19,7 @@ int main(int a, char *b[]){
 	return 0;
 }
 
-/*new comment is changed */
+/*new comment */
 
 /*to solve merge conflicts*/
 
