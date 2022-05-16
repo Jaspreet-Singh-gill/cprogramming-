@@ -21,3 +21,5 @@ int main(int a, char *b[]){
 
 /*new comment is changed */
 
+/*to solve merge conflicts*/
+
